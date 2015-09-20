@@ -13,7 +13,7 @@
 ;; IMPORTANT: You must evaluate the very first form, the namespace
 ;; definition.
 
-;; Declaring a namespaces
+;; Declaring namespaces
 ;; ----------------------------------------------------------------------------
 
 ;; ClojureScript supports modularity via namespaces. They allow you to group
