@@ -378,7 +378,7 @@ a-map
 (identity ::foo)
 
 ;; What good is this for? It allows you to put data into collections without
-;; fear of namespace clashes without the tedium of manual namespacing them
+;; fear of namespace clashes without the tedium of manually namespacing them
 ;; in your source.
 
 (identity {:user/foo ::foo})
