@@ -452,7 +452,7 @@ a-list
 
 (rest a-list)
 
-;; which allows you to easly verify how ClojureScript shares data
+;; which allows you to easily verify how ClojureScript shares data
 ;; structure instead of inefficiently copying data for supporting
 ;; immutability.
 
