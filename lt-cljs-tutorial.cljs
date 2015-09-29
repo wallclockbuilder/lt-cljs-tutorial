@@ -549,6 +549,14 @@ a-list
 ;; The only false-y values in ClojureScript are `nil` and `false`. `undefined`
 ;; is not really a valid ClojureScript value and is generally coerced to `nil`.
 
+(if nil
+  "Yuck"
+  "`nil` is one of the two false-y values in ClojureScript.")
+
+(if false
+  "Yuck."
+  "false is the other false-y value.")
+
 
 ;; cond
 ;; ----------------------------------------------------------------------------
