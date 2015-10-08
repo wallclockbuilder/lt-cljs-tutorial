@@ -1087,7 +1087,7 @@ x
 
 ;; Here are some highlights and patterns that newcomers to ClojureScript might
 ;; find useful. Remember you can type Control-Shift-D at anytime to bring up
-;; the documentation panel to see what any of these function do.
+;; the documentation panel to see what any of these functions do.
 
 (apply str (interpose ", " ["Bob" "Mary" "George"]))
 
